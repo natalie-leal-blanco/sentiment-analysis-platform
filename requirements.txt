@@ -17,3 +17,4 @@ h11>=0.8
 click>=7.0
 black==23.7.0
 flake8==6.1.0
+pytest-mock==3.10.0
