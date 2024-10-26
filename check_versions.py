@@ -2,6 +2,7 @@ try:
     import fastapi
     import pydantic
     import uvicorn
+
     print("Installed versions:")
     print(f"FastAPI: {fastapi.__version__}")
     print(f"Pydantic: {pydantic.__version__}")

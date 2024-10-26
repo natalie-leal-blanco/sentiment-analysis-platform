@@ -2,6 +2,7 @@ try:
     import torch
     import transformers
     import numpy
+
     print("PyTorch version:", torch.__version__)
     print("Transformers version:", transformers.__version__)
     print("NumPy version:", numpy.__version__)
