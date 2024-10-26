@@ -212,3 +212,15 @@ If you encounter any issues or have questions:
 ---
 
 Made with ❤️ by yours truly, Natalie Leal, from Venezuela to Austin TX, y pa'l mundo 
+
+# Sentiment Analysis Platform
+
+## Overview
+A real-time sentiment analysis application using FastAPI and React.
+
+## Status
+![CI/CD](https://github.com/natalie-leal-blanco/sentiment-analysis-platform/workflows/CI/CD/badge.svg)
+
+## Last Update
+- Updated: October 26, 2024
+- Status: Testing CI/CD Pipeline
