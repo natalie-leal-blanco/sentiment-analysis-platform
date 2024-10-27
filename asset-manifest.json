@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sentiment-analysis-platform/static/css/main.b74f4d53.css",
+    "main.js": "/sentiment-analysis-platform/static/js/main.e998d098.js",
+    "static/js/453.22fdd8fd.chunk.js": "/sentiment-analysis-platform/static/js/453.22fdd8fd.chunk.js",
+    "index.html": "/sentiment-analysis-platform/index.html",
+    "main.b74f4d53.css.map": "/sentiment-analysis-platform/static/css/main.b74f4d53.css.map",
+    "main.e998d098.js.map": "/sentiment-analysis-platform/static/js/main.e998d098.js.map",
+    "453.22fdd8fd.chunk.js.map": "/sentiment-analysis-platform/static/js/453.22fdd8fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74f4d53.css",
+    "static/js/main.e998d098.js"
+  ]
+}
